@@ -38,4 +38,4 @@ GitHub Actions automatically builds and tests on every push.
 Sohana Akbar - DevOps Engineer
 
 ## 📧 Contact
-[LinkedIn] | [GitHub] | [Email]
+[https://www.linkedin.com/in/sohana-akbar-5b6b1337b/] | [https://github.com/sohanakhan45566-sudo] | [sohanajhan45566@gmail.com]
